@@ -1,0 +1,59 @@
+\usepackage{graphics}
+\usepackage{graphicx}
+% пакет для расстановки гиперссылок в оглавлении и на команды \cite и \ref
+\usepackage{hyperref}
+\usepackage{latexsym}
+\usepackage{styles/axodraw}
+\usepackage{indentfirst}
+\usepackage{cite}
+\usepackage{styles/caption-disser}
+%\usepackage{flafter}
+\usepackage{float}
+% Этот пакет удобно использовать для проверки ссылок на литературу
+%\usepackage{amsbib}
+
+
+% показывает реальные названия ссылок в виде индекса
+% !!!!!!!  перед печатью убрать !!!!!
+%\usepackage{showkeys}
+
+% делает правильные для русского языка пробелы
+\frenchspacing
+
+\oddsidemargin=5mm \topmargin=-10mm \headheight=0mm \headsep=0mm
+\footskip=10mm \textheight=255mm \textwidth=165mm
+
+
+\newcommand{\dd}{\mbox{{\rm d}}}
+\newcommand{\half}{{\textstyle\frac{1}{2}}}
+\newcommand{\third}{{\textstyle\frac{1}{3}}}
+\newcommand{\fourth}{{\textstyle\frac{1}{4}}}
+\def\lsim{\mathrel{\rlap{\raise 2.5pt \hbox{$<$}}\lower 2.5pt
+\hbox{$\sim$}}}
+\newcommand{\wmax}{w_{\rm max}}
+\renewcommand{\Re}{\mbox{Re}}
+\newcommand{\thW}{\theta_{{\rm W}}}
+\newcommand{\varepsilonmax}{\varepsilon_{\rm max}}
+\newcommand{\Tr}{{\rm Tr}}
+\newcommand{\kslash}{\rlap/k}
+\newcommand{\qslash}{\rlap/q}
+\newcommand{\Order}{{\cal O}}
+\newcommand{\TeV}{{\rm TeV}}
+\newcommand{\Lumint}{{\cal L}_{\rm int}}
+
+
+\usepackage[dvips]{color}
+\definecolor{Black}{named}{Black}
+\definecolor{Red}{named}{Red}
+\definecolor{Blue}{named}{Blue}
+\newcommand{\black}[1]{\color{Black} #1\color{Black}}
+\newcommand{\red}[1]{\color{Red} #1\color{Black}}
+\def\change#1{{\red{\sl #1}}}
+\def\comment#1{{\small \red{[{\sl #1}]}}}
+\newcommand{\blue}[1]{\color{Blue} #1\color{Black}}
+\def\change#1{{\blue{\sl #1}}}
+\def\comment#1{{\small \blue{[{\sl #1}]}}}
+
+\emergencystretch=30pt
+
+\righthyphenmin=2
