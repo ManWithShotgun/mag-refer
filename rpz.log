@@ -1,0 +1,1607 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.20)  4 DEC 2017 20:18
+entering extended mode
+**./rpz.tex
+(rpz.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+(G7-32.cls
+Document Class: G7-32 2003/07/01 v1.0 Non Standard LaTeX document class
+(G2-105.sty
+Package: G2-105 2003/07/07 v1.00 General reqs. GOST 2.105-95
+ (GostBase.clo
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\extsizes\size14.clo"
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))
+\c@totalpage=\count79
+\c@totaltable=\count80
+\c@totalfigure=\count81
+\c@totalbib=\count82
+\GostAfterTitleSkip=\skip41
+\GostBetweenTitleSkip=\skip42
+\GostBeforTitleSkip=\skip43
+\GostBeforNoTitleSkip=\skip44
+\GostHTitleSpace=\skip45
+\GostTitleIndent=\skip46
+\Gost@ChapterIndent=\skip47
+\Gost@MainChapterIndent=\skip48
+\Gost@TitleDropSkip=\skip49
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\NirTitleDropSkip=\skip50
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\iftex\iftex.sty"
+Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
+and LuaTeX
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\cmap\cmap.sty"
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\cyrillic\t2acmr.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/11/03 3.15 The Babel package
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/11/03 3.15 Babel common definitions
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\babel\switch.def"
+File: switch.def 2017/11/03 3.15 Babel switching mechanism
+)
+\babel@savecnt=\count88
+\U@D=\dimen102
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\babel-russian\russianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\t2\mathtext.sty"
+Package: mathtext 1999/01/28 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 111.
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\base\flafter.sty"
+Package: flafter 2017/04/11 v1.4a Standard LaTeX floats after reference (FMi)
+Applying: [2015/01/01] float order in 2-column on input line 49.
+Already applied: [0000/00/00] float order in 2-column on input line 151.
+)
+\GostItemGap=\skip51
+\GostItemIndent=\skip52
+\GostItemNestedIndent=\skip53
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip54
+
+For additional information on amsmath, use the `?' option.
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen103
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+\symOMLletters=\mathgroup6
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\symOMSletters=\mathgroup7
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks21
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks22
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks23
+\multlinegap=\skip55
+\multlinetaggap=\skip56
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\was\icomma.sty"
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\base\leqno.clo"
+File: leqno.clo 2016/12/29 v1.2a Standard LaTeX option (left equation numbers)
+)
+\Gost@EqRemLen=\skip57
+\Gost@@EqRemLen=\skip58
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+\captionmargin=\dimen112
+\captionmargin@=\dimen113
+\captionwidth=\dimen114
+\caption@tempdima=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = undefined.
+\c@ContinuedFloat=\count101
+)
+\c@figure=\count102
+\c@table=\count103
+ ("D:\MyPrograms\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
+\LTchunksize=\count104
+\LTcapwidth=\dimen119
+\LT@head=\box28
+\LT@firsthead=\box29
+\LT@foot=\box30
+\LT@lastfoot=\box31
+\LT@cols=\count105
+\LT@rows=\count106
+\c@LT@tables=\count107
+\c@LT@chunks=\count108
+\LT@p@ftn=\toks26
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty"
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks27
+\footnotemargin=\dimen120
+\c@pp@next@reset=\count109
+\c@@fnserial=\count110
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\bibindent=\dimen121
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count111
+\Gm@cntv=\count112
+\c@Gm@tempcnt=\count113
+\Gm@bindingoffset=\dimen122
+\Gm@wd@mp=\dimen123
+\Gm@odd@mp=\dimen124
+\Gm@even@mp=\dimen125
+\Gm@layoutwidth=\dimen126
+\Gm@layoutheight=\dimen127
+\Gm@layouthoffset=\dimen128
+\Gm@layoutvoffset=\dimen129
+\Gm@dimlist=\toks28
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (G7-32.sty
+Package: G7-32 2003/07/07 v1.00 Titles for GOST 7.32-2001
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\cyrillic\t2aenc.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+LaTeX Font Info:    Redeclaring font encoding T2A on input line 42.
+\symT2Aletters=\mathgroup8
+))
+\@input{preamble.inc.aux}
+\openout2 = `preamble.inc.aux'.
+
+(preamble.inc.tex ("D:\MyPrograms\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen130
+\Hy@linkcounter=\count114
+\Hy@pagecounter=\count115
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+\symPD1letters=\mathgroup9
+)
+\Hy@SavedSpaceFactor=\count116
+Package hyperref Info: Option `unicode' set `true' on input line 3453.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+\symPUletters=\mathgroup10
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
+Package hyperref Info: Option `unicode' set `true' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count117
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen131
+\Fld@menulength=\count118
+\Field@Width=\dimen132
+\Fld@charsize=\dimen133
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring ON on input line 6376.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count119
+\c@Item=\count120
+\c@Hfootnote=\count121
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count122
+\c@bookmark@seq@number=\count123
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip65
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen134
+\Gin@req@width=\dimen135
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks29
+\pgfutil@tempdima=\dimen136
+\pgfutil@tempdimb=\dimen137
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex")
+) ("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+\pgfutil@abb=\box32
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks30
+\pgfkeys@temptoks=\toks31
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks32
+))
+\pgf@x=\dimen138
+\pgf@y=\dimen139
+\pgf@xa=\dimen140
+\pgf@ya=\dimen141
+\pgf@xb=\dimen142
+\pgf@yb=\dimen143
+\pgf@xc=\dimen144
+\pgf@yc=\dimen145
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count124
+\c@pgf@countb=\count125
+\c@pgf@countc=\count126
+\c@pgf@countd=\count127
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+ ("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+))) ("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.
+tex"
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count128
+\pgfsyssoftpath@bigbuffer@items=\count129
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+)) ("D:\MyPrograms\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen146
+\pgfmath@count=\count130
+\pgfmath@box=\box33
+\pgfmath@toks=\toks36
+\pgfmath@stack@operand=\toks37
+\pgfmath@stack@operation=\toks38
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+")
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.
+code.tex")
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.te
+x")
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.cod
+e.tex")
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex"
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+")
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex"
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithme
+tics.code.tex")))
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count131
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen147
+\pgf@picmaxx=\dimen148
+\pgf@picminy=\dimen149
+\pgf@picmaxy=\dimen150
+\pgf@pathminx=\dimen151
+\pgf@pathmaxx=\dimen152
+\pgf@pathminy=\dimen153
+\pgf@pathmaxy=\dimen154
+\pgf@xx=\dimen155
+\pgf@xy=\dimen156
+\pgf@yx=\dimen157
+\pgf@yy=\dimen158
+\pgf@zx=\dimen159
+\pgf@zy=\dimen160
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code
+.tex"
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen161
+\pgf@path@lasty=\dimen162
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+"
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen163
+\pgf@shorten@start@additional=\dimen164
+) ("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box34
+\pgf@hbox=\box35
+\pgf@layerbox@main=\box36
+\pgf@picture@serial@count=\count132
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.
+tex"
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen165
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.co
+de.tex"
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen166
+\pgf@pt@y=\dimen167
+\pgf@pt@temp=\dimen168
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.cod
+e.tex"
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen169
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen170
+\pgf@sys@shading@range@num=\count133
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box37
+)) ("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.
+tex"
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+))) ("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+"
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box38
+) ("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+"
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen171
+\pgf@nodesepend=\dimen172
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+"
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+)) ("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"))
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+\pgffor@iter=\dimen173
+\pgffor@skip=\dimen174
+\pgffor@stack=\toks39
+\pgffor@toks=\toks40
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.cod
+e.tex"
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count134
+\pgfplotmarksize=\dimen175
+)
+\tikz@lastx=\dimen176
+\tikz@lasty=\dimen177
+\tikz@lastxsaved=\dimen178
+\tikz@lastysaved=\dimen179
+\tikzleveldistance=\dimen180
+\tikzsiblingdistance=\dimen181
+\tikz@figbox=\box39
+\tikz@figbox@bg=\box40
+\tikz@tempbox=\box41
+\tikz@tempbox@bg=\box42
+\tikztreelevel=\count135
+\tikznumberofchildren=\count136
+\tikznumberofcurrentchild=\count137
+\tikz@fig@count=\count138
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count139
+\pgfmatrixcurrentcolumn=\count140
+\pgf@matrix@numberofcolumns=\count141
+)
+\tikz@expandcount=\count142
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlib
+rarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlib
+raryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryarrows.code.tex"
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen182
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlib
+rarypositioning.code.tex"
+File: tikzlibrarypositioning.code.tex 2008/10/06 v3.0.1a (rcs-revision 1.7)
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlib
+raryshadows.code.tex"
+File: tikzlibraryshadows.code.tex 2008/01/13 v3.0.1a (rcs-revision 1.3)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlib
+raryfadings.code.tex"
+File: tikzlibraryfadings.code.tex 2009/11/15 v3.0.1a (rcs-revision 1.2)
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+"
+File: pgflibraryfadings.code.tex 2008/02/07 v3.0.1a (rcs-revision 1.3)
+))) ("D:\MyPrograms\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks41
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip66
+\multirow@cntb=\count143
+\multirow@dima=\skip67
+\bigstrutjot=\dimen183
+))
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\paralist\paralist.sty"
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip68
+\plpartopsep=\skip69
+\plitemsep=\skip70
+\plparsep=\skip71
+\pl@lab=\toks42
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen184
+\extrarowheight=\dimen185
+\NC@list=\toks43
+\extratabsurround=\skip72
+\backup@length=\skip73
+)
+\@input{listings.inc.aux}
+\openout2 = `listings.inc.aux'.
+
+(listings.inc.tex ("D:\MyPrograms\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count144
+\lst@gtempboxa=\box43
+\lst@token=\toks44
+\lst@length=\count145
+\lst@currlwidth=\dimen186
+\lst@column=\count146
+\lst@pos=\count147
+\lst@lostspace=\dimen187
+\lst@width=\dimen188
+\lst@newlines=\count148
+\lst@lineno=\count149
+\lst@maxwidth=\dimen189
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count150
+\lst@skipnumbers=\count151
+\lst@framebox=\box44
+)
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+)
+\@input{macros.inc.aux}
+\openout2 = `macros.inc.aux'.
+
+(macros.inc.tex) (rpz.aux (00-abstract.aux) (12-intro.aux) (1-linux.aux)
+(2-Zprime.aux
+
+LaTeX Warning: Label `fig:fig01' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig01' multiply defined.
+
+) (20-analysis.aux
+
+LaTeX Warning: Label `cha:analysis' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig01' multiply defined.
+
+) (30-design.aux) (40-impl.aux) (50-research.aux) (51-name.aux)
+(80-conclusion.aux) (81-biblio.aux) (90-appendix1.aux) (91-appendix2.aux))
+\openout1 = `rpz.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-29.36449pt
+* \headheight=14.0pt
+* \headsep=0.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box45
+Package hyperref Info: Link coloring ON on input line 19.
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("D:\MyPrograms\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count152
+)
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
+ (rpz.out) (rpz.out)
+\@outlinefile=\write4
+\openout4 = `rpz.out'.
+
+ ("D:\MyPrograms\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count153
+\scratchdimen=\dimen190
+\scratchbox=\box46
+\nofMPsegments=\count154
+\nofMParguments=\count155
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count156
+\MPscratchDim=\dimen191
+\MPnumerator=\count157
+\makeMPintoPDFobject=\count158
+\everyMPtoPDFconversion=\toks46
+) ("D:\MyPrograms\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+\c@lstlisting=\count159
+ (rpz.toc<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+ ("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 2.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+LaTeX Font Info:    Try loading font information for PD1+cmr on input line 2.
+LaTeX Font Info:    No file PD1cmr.fd. on input line 2.
+
+
+LaTeX Font Warning: Font shape `PD1/cmr/m/n' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 2.
+
+LaTeX Font Info:    Try loading font information for PU+cmr on input line 2.
+LaTeX Font Info:    No file PUcmr.fd. on input line 2.
+
+LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 2.
+
+)
+\tf@toc=\write5
+\openout5 = `rpz.toc'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 34.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 34.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 34.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 34.
+ [2
+
+
+
+\FN@pp@footnotehinttrue 
+
+
+\FN@pp@footnotehinttrue 
+
+
+\FN@pp@footnotehinttrue 
+
+
+
+{C:/Users/ILIA/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+\openout2 = `1-linux.aux'.
+
+ (1-linux.tex ("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\uni-4.def"
+File: uni-4.def 2013/05/13 UCS: Unicode data U+0400..U+04FF
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+ (1-1-linux.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 8.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 8.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 8.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 8.
+ [4
+
+
+
+]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 12.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 12.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 12.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 12.
+ [5]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 16.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 16.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 16.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 16.
+ [6]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 20.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 20.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 20.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 20.
+ [7]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 28.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 28.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 28.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 28.
+ [8]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 30.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 30.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 30.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 30.
+
+[9]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 35.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 35.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 35.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 35.
+ [10]) (1-2-linux.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+ [11]
+<figures/LAMP_software_bundle.png, id=172, 803.0pt x 451.6875pt>
+File: figures/LAMP_software_bundle.png Graphic file (type png)
+<use figures/LAMP_software_bundle.png>
+Package pdftex.def Info: figures/LAMP_software_bundle.png  used on input line 1
+1. on input line 11.
+Package pdftex.def Info: Requested size: 455.24411pt x 256.07921pt on input lin
+e 11.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 17.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 17.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 17.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 17.
+ [12 <./figures/LAMP_software_bundle.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 25.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 25.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 25.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 25.
+
+[13]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 41.
+ [14] ("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]\T2A/cmr/m/n/14.4 Другие графические интерфейсы, такие как FVWM,
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 51.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 51.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 51.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 51.
+[15]) (1-3-linux.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+ [16]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 12.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 12.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 12.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 12.
+ [17]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 15.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 15.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 15.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 15.
+ [18]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 25.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 25.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 25.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 25.
+ [19]
+Underfull \hbox (badness 3954) in paragraph at lines 27--28
+[]\T2A/cmr/m/n/14.4 Для компьютеров Macintosh характерен способ соедин
+ения
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 32.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 32.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 32.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 32.
+[20]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 41.
+ [21]) (1-4-linux.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+ [22]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 13.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 13.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 13.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 13.
+ [23]
+Underfull \hbox (badness 1014) in paragraph at lines 20--22
+[]\T2A/cmr/m/n/14.4 openSUSE. Бесплатно распространяемая версия дистри
+бутива
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 20--22
+\T2A/cmr/m/n/14.4 стройке и обслуживании благодаря использованию ут
+илиты YaST.
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 24--26
+[]\T2A/cmr/m/n/14.4 Mandriva. Французско-бразильский дистрибутив, объе
+динение
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 30.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 30.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 30.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 30.
+[24]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 41.
+ [25]) (1-5-linux.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+ [26]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 13.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 13.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 13.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 13.
+ [27]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 29.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 29.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 29.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 29.
+ [28]))
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 38.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 38.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 38.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 38.
+ [29]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 38.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 38.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 38.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 38.
+ [30]
+\openout2 = `2-Zprime.aux'.
+
+ (2-Zprime.tex
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <17.28> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\prime' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+(2-1-Zprime.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+<figures/hep-sm.png, id=274, 436.63126pt x 323.2075pt>
+File: figures/hep-sm.png Graphic file (type png)
+<use figures/hep-sm.png>
+Package pdftex.def Info: figures/hep-sm.png  used on input line 10. on input li
+ne 10.
+Package pdftex.def Info: Requested size: 455.24411pt x 336.986pt on input line 
+10.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 17.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 17.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 17.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 17.
+[31
+
+
+
+]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 21.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 21.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 21.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 21.
+ [32 <./figures/hep-sm.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 27.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 27.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 27.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 27.
+ [33]
+<figures/quirk-antiquirk.jpg, id=290, 301.125pt x 192.72pt>
+File: figures/quirk-antiquirk.jpg Graphic file (type jpg)
+<use figures/quirk-antiquirk.jpg>
+Package pdftex.def Info: figures/quirk-antiquirk.jpg  used on input line 32. on
+ input line 32.
+Package pdftex.def Info: Requested size: 455.24411pt x 291.38475pt on input lin
+e 32.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 39.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 39.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 39.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 39.
+ [34 <./figures/quirk-antiquirk.jpg>])
+(2-2-Zprime.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 4.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 4.
+ [35]) (2-3-Zprime.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+ [36]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\ucs\uni-34.def"
+File: uni-34.def 2013/05/13 UCS: Unicode data U+2200..U+22FF
+)))
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 39.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 39.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 39.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 39.
+ [37]
+\openout2 = `80-conclusion.aux'.
+
+ (80-conclusion.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 49.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 49.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 49.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 49.
+ [41
+
+
+
+
+
+
+
+
+]
+\openout2 = `81-biblio.aux'.
+
+ (81-biblio.tex (rpz.bbl
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 1.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 1.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 22.
+
+
+("D:\MyPrograms\MiKTeX 2.9\tex\latex\cyrillic\t2acmtt.fd"
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Underfull \hbox (badness 8189) in paragraph at lines 51--57
+[]\T2A/cmr/m/it/14.4 Н. В. Красников, В. А. Матвеев\T2A/cmr/m/n/14.4 . Пои
+ск новой фи
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 51--57
+\T2A/cmr/m/n/14.4 зики на LHC [Электронный ресурс]. ---  Режим доступа:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--57
+[][]$\T2A/cmtt/m/n/14.4 http : / / www . mathnet . ru / php / archive . phtml ?
+ wshow = paper & jrnid =
+ []
+
+))
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 51.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 51.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language append on input line 51.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language append on input line 51.
+ [42
+
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 58.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 58.
+ (rpz.aux (00-abstract.aux) (12-intro.aux) (1-linux.aux) (2-Zprime.aux)
+(20-analysis.aux) (30-design.aux) (40-impl.aux) (50-research.aux) (51-name.aux)
+(80-conclusion.aux) (81-biblio.aux) (90-appendix1.aux) (91-appendix2.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 58.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 58.
+Package rerunfilecheck Info: File `rpz.out' has not changed.
+(rerunfilecheck)             Checksum: 90E8C6BDD0DCDAE55C4188E80535B9C8;4061.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 58.
+ ) 
+Here is how much of TeX's memory you used:
+ 26799 strings out of 493312
+ 455072 string characters out of 3140197
+ 492759 words of memory out of 3000000
+ 29663 multiletter control sequences out of 15000+200000
+ 17368 words of font info for 50 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 59i,7n,84p,3625b,622s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{appendix.B} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{appendix.A} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.5} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.4} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.3.2.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.3.1} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter.3} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{section*.3} has been referenced but does not exist,
+ replaced by a fixed one
+
+ <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\latt1
+440.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi60
+0\lati1440.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
+a\dpi600\labx1440.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\larm1440.pk> <C:\Users\ILIA\AppData\Local\MiKTeX\2.9\fonts\pk\l
+jfour\lh\lh-t2a\dpi600\labx1728.pk><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb><D:/MyPrograms/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb>
+Output written on rpz.pdf (37 pages, 355308 bytes).
+PDF statistics:
+ 685 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 240 words of extra memory for PDF output out of 10000 (max. 10000000)
+
