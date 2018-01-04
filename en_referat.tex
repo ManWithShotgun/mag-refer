@@ -17,6 +17,8 @@
 \renewcommand\chaptername{ГЛАВА}
 \renewcommand\figurename{Рисунок}
 \renewcommand\tablename{Таблица}
+\newcommand{\intro}{ВВЕДЕНИЕ}
+\newcommand{\prolog}{ПРИЛОЖЕНИЕ}
 
 \include{src/title_referat}
 
@@ -24,37 +26,36 @@
 \pagestyle{plain} \pagenumbering{arabic} \setcounter{page}{2}
 \large \tableofcontents
 
-%\include{src/introduction}
+\newpage
+\chapter*{\intro}
+\addcontentsline{toc}{chapter}{\intro}
+\input{src/introduction}
 
 \chapter{Операционная система Linux: состояние и тенденции развития}
-\input{src/1-1-linux}
-\input{src/1-2-linux}
-\input{src/1-3-linux}
-\input{src/1-4-linux}
-\input{src/1-5-linux}
+%\input{src/1-1-linux}
+%\input{src/1-2-linux}
+%\input{src/1-3-linux}
+%\input{src/1-4-linux}
+%\input{src/1-5-linux}
 
 \chapter{Рождения $Z^\prime$ - бозонов в протон-протонных столкновениях с учетом эффектов $Z$ - $Z^\prime$ смешивания}
-\input{src/2-1-Zprime}
-\input{src/2-2-Zprime}
-\input{src/2-3-Zprime}
+%\input{src/2-1-Zprime}
+%\input{src/2-2-Zprime}
+%\input{src/2-3-Zprime}
 
 \newpage
 \chapter*{ЗАКЛЮЧЕНИЕ}
 \addcontentsline{toc}{chapter}{ЗАКЛЮЧЕНИЕ} % in Content
 \input{src/conclusion}
 
-% \chapter{Список использованных источников}
 \newpage
 \begin{thebibliography}{9999.}
 \addcontentsline{toc}{chapter}{Список использованных источников}
 \input{src/thebib.tex}
-
-%\bibitem[1-А]{A-1}  Tsytrinov,~A.V. Comparative analysis of the four
-%fermion contact interactions at $e^+e^-$ and $e^-e^-$ colliders /
-%A.V.~Tsytrinov, A.A.~Pankov // Nonlinear Phenomena in Complex
-%Systems. -- 2005. -- Vol. 8, № 1. -- P. 98 -- 101.
-
 \end{thebibliography}
+\chapter*{\prolog}
+\addcontentsline{toc}{chapter}{\prolog} % in Content
+\input{src/source}
 \end{document}
 
 %%%%\bibliographystyle{gost780u}
